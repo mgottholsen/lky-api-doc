@@ -23,7 +23,7 @@ https://louisvilleky.gov/services/toolbox_services.json?limit=0
 All Louisville Metro Online Services listed on LouisvilleKy.gov. This feed can be filtered via the field "og_group_ref", which is the Department ID from the "Departments" feed.
 
 Louisville Metro Air Quality Feed (selected for development focus)
-https://sss-api-metro.smartlouisville.com/
+https://aaws.louisvilleky.gov/api/v1/Monitor/CityAQI
 This feed provides data from APCD, which returns Air Quality Information from multiple sites in the Louisville Metro Area, in addition to a "city-wide" AQI score. Different physical sites have varying sensors.
 
 Services Info Lookup (selected for development focus)
